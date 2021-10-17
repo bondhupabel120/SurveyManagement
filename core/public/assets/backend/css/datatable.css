@@ -1,0 +1,22 @@
+.table td, .table th {
+    padding: 7px!important;
+    text-align: center!important;
+    font-family: kalpurush!important;
+}
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 1px!important;
+    font-family: Roboto;
+}
+
+.form-control{
+    height: 36px!important;
+}
+
+.form-group label{
+    margin-bottom: .1rem!important;
+}
+label.error{
+    color: red;
+    font-size: 13px;
+    font-family: roboto;
+}
